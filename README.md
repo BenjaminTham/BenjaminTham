@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Full-Stack & AI Engineer | Building with Java, Python, & Cloud Tech (AWS/Azure, Docker) | SIT Software Engineering Student | Ex-Nvidia (AI/ML), Ex-Medtronic (AR) | IEEE SOLI 2023 Author
+🚀 Full-Stack Software Engineer & Game Developer | Creative Problem Solving in Cloud Tech (AWS, Docker) & Unreal Engine 5 | SIT Software Engineering Student | Ex-Nvidia (AI/ML), Ex-Medtronic (AR) | IEEE SOLI 2023 Author
 
 
 ## 🌐 Socials:
